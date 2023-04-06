@@ -18,5 +18,25 @@
     <ClCompile Include="GamesApp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="highLow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="blackjack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="adventuregame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="highLow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="blackjack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="adventuregame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
